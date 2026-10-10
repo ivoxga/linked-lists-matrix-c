@@ -1,0 +1,5 @@
+C:/Users/ivox2/Documents/Estroturas de Dados Avançadas/Trabalho Pratico_fase1/main.c:80: warning: The following parameter of contaLC(int *linhas, int *colunas, const char nomeFicheiro[]) is not documented:
+  parameter 'nomeFicheiro'
+C:/Users/ivox2/Documents/Estroturas de Dados Avançadas/Trabalho Pratico_fase1/main.c:156: warning: argument 'poiscao' of command @param is not found in the argument list of inserirPosicao(Lista *inicio, int v, int posicao)
+C:/Users/ivox2/Documents/Estroturas de Dados Avançadas/Trabalho Pratico_fase1/main.c:156: warning: The following parameter of inserirPosicao(Lista *inicio, int v, int posicao) is not documented:
+  parameter 'posicao'

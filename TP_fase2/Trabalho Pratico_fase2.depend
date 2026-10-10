@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713632774 source:c:\users\ivox2\documents\ipca eec\estroturas de dados avançadas\trabalho pratico_fase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1716303189 source:c:\users\ivox2\documents\ipca eec\1º ano\2º semestre\estroturas de dados avançadas\trabalho pratico_fase2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1720189444 source:d:\ipca eec\1º ano\2º semestre\estroturas de dados avançadas\projeto 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+

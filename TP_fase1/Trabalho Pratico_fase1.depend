@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1711414589 source:c:\users\ivox2\documents\estroturas de dados avançadas\trabalho pratico_fase1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1709075004 source:c:\users\ivox2\documents\estroturas de dados avançadas\trabalho pratico_fase1\código_chatgpt.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1709075246 source:c:\users\ivox2\ambiente de trabalho\codigo do chat gpt.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1711505249 source:c:\users\ivox2\documents\ipca eec\1º ano\2º semestre\estroturas de dados avançadas\trabalho pratico_fase1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
