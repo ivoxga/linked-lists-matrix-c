@@ -5,7 +5,7 @@ A C practical project that reads an integer matrix from a text file and manipula
 1. **Phase 1:** the matrix as a linked list, with adding/removing rows and columns and editing values.
 2. **Phase 2:** the matrix as a **graph** (list of vertices + edge lists), with depth-first search (DFS) and calculation of the highest-sum path.
 
-> Project developed for the course **[course name]**, BSc in **[degree]**, **[University/Institute]**, **[academic year]**.
+> Project developed for the course **Advanced Data Structures**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **1st year**.
 
 ---
 
