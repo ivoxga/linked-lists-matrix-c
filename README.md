@@ -13,10 +13,10 @@ A C practical project that reads an integer matrix from a text file and manipula
 
 ```
 .
-├── phase1/
+├── TP_fase1/
 │   ├── main.c
 │   └── Matriz_Default.txt
-├── phase2/
+├── TP_fase2/
 │   ├── main.c
 │   └── Matriz_Default.txt
 └── README.md
