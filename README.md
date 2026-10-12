@@ -7,7 +7,7 @@ A C practical project that reads an integer matrix from a text file and manipula
 
 > Project developed for the course **Advanced Data Structures**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **1st year**.
  
----
+--- 
 
 ## Repository structure
 
